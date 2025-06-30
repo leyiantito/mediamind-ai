@@ -26,6 +26,10 @@ An integrated artificial intelligence platform for media organizations to stream
 4. Run migrations
 5. Start the development server
 
+## Deployment
+
+Deployed on Railway with auto-detection for Laravel/PHP configuration.
+
 ## Project Structure
 
 ```
